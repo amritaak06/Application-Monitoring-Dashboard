@@ -35,7 +35,7 @@ Application-Monitoring-Dashboard/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/aruk04/Application-Monitoring-Dashboard.git
+git clone https://github.com/amritaak06/Application-Monitoring-Dashboard.git
 cd Application-Monitoring-Dashboard
 ```
 
